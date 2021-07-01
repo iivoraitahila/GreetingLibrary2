@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="koe.esimerkki.AppTest" time="0.005" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="IBM Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\IBM\Java80\jre\bin\compressedrefs\jclSC180\vm.jar;C:\Program Files\IBM\Java80\jre\lib\se-service.jar;C:\Program Files\IBM\Java80\jre\lib\math.jar;C:\Program Files\IBM\Java80\jre\lib\ibmorb.jar;C:\Program Files\IBM\Java80\jre\lib\ibmorbapi.jar;C:\Program Files\IBM\Java80\jre\lib\ibmcfw.jar;C:\Program Files\IBM\Java80\jre\lib\ibmpkcs.jar;C:\Program Files\IBM\Java80\jre\lib\ibmcertpathfw.jar;C:\Program Files\IBM\Java80\jre\lib\ibmjgssfw.jar;C:\Program Files\IBM\Java80\jre\lib\ibmjssefw.jar;C:\Program Files\IBM\Java80\jre\lib\ibmsaslfw.jar;C:\Program Files\IBM\Java80\jre\lib\ibmjcefw.jar;C:\Program Files\IBM\Java80\jre\lib\ibmjgssprovider.jar;C:\Program Files\IBM\Java80\jre\lib\ibmjsseprovider2.jar;C:\Program Files\IBM\Java80\jre\lib\ibmcertpathprovider.jar;C:\Program Files\IBM\Java80\jre\lib\xmldsigfw.jar;C:\Program Files\IBM\Java80\jre\lib\xml.jar;C:\Program Files\IBM\Java80\jre\lib\charsets.jar;C:\Program Files\IBM\Java80\jre\lib\resources.jar;C:\Program Files\IBM\Java80\jre\lib\rt.jar;C:\Program Files\IBM\Java80\jre\lib\dataaccess.jar"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.version" value="8.0.5.27 - pwa6480sr5fp27-20190104_01(SR5 FP27)"/>
+    <property name="user.name" value="001320702"/>
+    <property name="java.compiler" value="j9jit29"/>
+    <property name="os.encoding" value="UTF8"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="com.ibm.util.extralibs.properties" value=""/>
+    <property name="com.ibm.jcl.checkClassPath" value=""/>
+    <property name="user.language" value="fi"/>
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="C:\Program Files\IBM\Java80\jre\bin\compressedrefs;C:\Program Files\IBM\Java80\jre\bin"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\IBM\Java80\jre\bin\compressedrefs;C:\Program Files\IBM\Java80\jre\bin"/>
+    <property name="classworlds.conf" value="C:\Users\IivoRaitahila\Documents\apache-maven-3.6.0\bin\..\bin\m2.conf"/>
+    <property name="java.version" value="1.8.0_191"/>
+    <property name="user.timezone" value="Europe/Helsinki"/>
+    <property name="com.ibm.system.agent.path" value="C:\Program Files\IBM\Java80\jre\bin"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="com.ibm.zero.version" value="2"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\IBM\Java80\jre\lib\endorsed"/>
+    <property name="com.ibm.oti.vm.library.version" value="29"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="C:\Users\IivoRaitahila\Documents\apache-maven-3.6.0\bin\../conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="user.country" value="FI"/>
+    <property name="java.home" value="C:\Program Files\IBM\Java80\jre"/>
+    <property name="java.vm.info" value="JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20181219_405297 (JIT enabled, AOT enabled)
+OpenJ9   - 3f2d574
+OMR      - 109ba5b
+IBM      - e2996d1"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.awt.fonts" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="2.9"/>
+    <property name="user.variant" value=""/>
+    <property name="console.encoding" value="Cp437"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="ibm.signalhandling.sigint" value="true"/>
+    <property name="user.home" value="C:\Users\IivoRaitahila"/>
+    <property name="com.ibm.cpu.endian" value="little"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="ibm.signalhandling.sigchain" value="true"/>
+    <property name="library.jansi.path" value="C:\Users\IivoRaitahila\Documents\apache-maven-3.6.0\bin\..\lib\jansi-native"/>
+    <property name="java.library.path" value="C:\Program Files\IBM\Java80\jre\bin\compressedrefs;C:\Program Files\IBM\Java80\jre\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\AdoptOpenJDK\jdk-11.0.10.9-hotspot\bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Program Files (x86)\IBM\Java80\bin;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\kubectl;C:\Program Files\helm\windows-amd64;C:\Program Files\IBM\Cloud\bin;C:\Users\IivoRaitahila\Documents\apache-maven-3.6.0\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\IivoRaitahila\AppData\Local\Programs\Python\Python37-32;C:\Program Files\Git\usr\bin;C:\Users\IivoRaitahila\AppData\Local\salabs_\WebDriverManager\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTION;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\Program Files (x86)\Webex\Webex\Applications;C:\Users\IivoRaitahila\Documents\oc4;C:\Users\IivoRaitahila\Documents\cwrsync_5.7.2_x86_free\bin;C:\Users\IivoRaitahila\Documents\cwrsync_5.7.2_x86_free;C:\Program Files (x86)\PuTTY\;C:\php-7.4.3-nts-Win32-vc15-x64;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\IivoRaitahila\Documents\s2i;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\IivoRaitahila\.windows-build-tools\python27\;C:\Program Files\nodejs\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin;C:\Users\IivoRaitahila\AppData\Roaming\npm\node_modules\windows-build-tools\node_modules\.bin;C:\Users\IivoRaitahila\AppData\Roaming\npm\node_modules\.bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\IBM\Java80\bin;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Webex\Webex\Applications;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\kubectl;C:\Program Files\helm\windows-amd64;C:\Program Files\IBM\Cloud\bin;C:\Users\IivoRaitahila\Documents\apache-maven-3.6.0\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\PuTTY\;C:\Users\IivoRaitahila\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\IivoRaitahila\AppData\Local\Programs\Python\Python37-32\;C:\Users\IivoRaitahila\AppData\Local\Microsoft\WindowsApps;C:\Users\IivoRaitahila\AppData\Roaming\npm;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\IivoRaitahila\AppData\Local\Microsoft\WindowsApps;C:\Users\IivoRaitahila\Documents\minishift;C:\Users\IivoRaitahila\AppData\Roaming\Composer\vendor\bin;C:\Users\IivoRaitahila\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\IivoRaitahila\.dotnet\tools;C:\Users\IivoRaitahila\AppData\Local\Box\Box Edit\;."/>
+    <property name="java.vendor.url" value="http://www.ibm.com"/>
+    <property name="java.vm.vendor" value="IBM Corporation"/>
+    <property name="java.fullversion" value="8.0.5.27 - pwa6480sr5fp27-20190104_01(SR5 FP27)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20181219_405297 (JIT enabled, AOT enabled)
+OpenJ9   - 3f2d574
+OMR      - 109ba5b
+IBM      - e2996d1"/>
+    <property name="maven.home" value="C:\Users\IivoRaitahila\Documents\apache-maven-3.6.0\bin\.."/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package deploy"/>
+    <property name="java.class.path" value="C:\Users\IivoRaitahila\Documents\apache-maven-3.6.0\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.io.tmpdir" value="C:\Users\IIVORA~1\AppData\Local\Temp\"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\IivoRaitahila\eclipse-workspace-azure\esimerkki"/>
+    <property name="ibm.system.encoding" value="Cp1252"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="ibm.signalhandling.rs" value="false"/>
+    <property name="java.ext.dirs" value="C:\Program Files\IBM\Java80\jre\lib\ext"/>
+    <property name="user.dir" value="C:\Users\IivoRaitahila\eclipse-workspace-azure\esimerkki"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="IBM J9 VM"/>
+    <property name="com.ibm.oti.shared.enabled" value="false"/>
+    <property name="com.ibm.vm.bitmode" value="64"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="javax.xml.accessExternalSchema" value="all"/>
+    <property name="com.ibm.oti.configuration" value="scar"/>
+    <property name="java.specification.version" value="1.8"/>
+  </properties>
+  <testcase classname="koe.esimerkki.AppTest" name="testApp" time="0.005"/>
+</testsuite>
